@@ -4,5 +4,6 @@ def main():
         age = int(text)
         if age < 20 :
             print("未成年")
+            
 if __name__ == "__main__":
     main()

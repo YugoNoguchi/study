@@ -3,6 +3,5 @@ def main () :
     print ( date["name"] )
     print ( date["bill"] )
 
-
 if __name__ == ("__main__") :
     main ()
